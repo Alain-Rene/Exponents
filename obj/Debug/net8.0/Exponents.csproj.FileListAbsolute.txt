@@ -1,0 +1,14 @@
+/Users/alainrene/Desktop/AugustWeek1/Lecture3/Exponents/bin/Debug/net8.0/Exponents
+/Users/alainrene/Desktop/AugustWeek1/Lecture3/Exponents/bin/Debug/net8.0/Exponents.deps.json
+/Users/alainrene/Desktop/AugustWeek1/Lecture3/Exponents/bin/Debug/net8.0/Exponents.runtimeconfig.json
+/Users/alainrene/Desktop/AugustWeek1/Lecture3/Exponents/bin/Debug/net8.0/Exponents.dll
+/Users/alainrene/Desktop/AugustWeek1/Lecture3/Exponents/bin/Debug/net8.0/Exponents.pdb
+/Users/alainrene/Desktop/AugustWeek1/Lecture3/Exponents/obj/Debug/net8.0/Exponents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alainrene/Desktop/AugustWeek1/Lecture3/Exponents/obj/Debug/net8.0/Exponents.AssemblyInfoInputs.cache
+/Users/alainrene/Desktop/AugustWeek1/Lecture3/Exponents/obj/Debug/net8.0/Exponents.AssemblyInfo.cs
+/Users/alainrene/Desktop/AugustWeek1/Lecture3/Exponents/obj/Debug/net8.0/Exponents.csproj.CoreCompileInputs.cache
+/Users/alainrene/Desktop/AugustWeek1/Lecture3/Exponents/obj/Debug/net8.0/Exponents.dll
+/Users/alainrene/Desktop/AugustWeek1/Lecture3/Exponents/obj/Debug/net8.0/refint/Exponents.dll
+/Users/alainrene/Desktop/AugustWeek1/Lecture3/Exponents/obj/Debug/net8.0/Exponents.pdb
+/Users/alainrene/Desktop/AugustWeek1/Lecture3/Exponents/obj/Debug/net8.0/Exponents.genruntimeconfig.cache
+/Users/alainrene/Desktop/AugustWeek1/Lecture3/Exponents/obj/Debug/net8.0/ref/Exponents.dll
