@@ -21,6 +21,8 @@ do{
         try{
             int square;
             int cubed;
+
+            //Checked which checks if the program is squared or not
             checked {
             square = i * i;
 
@@ -37,7 +39,6 @@ do{
 
     //Ask user to continue
     continueProgram = QuestionUser(continueProgram);
-    System.Console.WriteLine("This is the continueProgram: " + continueProgram);
 
 
 
@@ -45,15 +46,18 @@ do{
 
 static bool QuestionUser(bool answer){
     while(true){
+        //Method that asks user if they would like to continue
         System.Console.WriteLine("Would you like to continue? Please enter y/n");
         string choice = Console.ReadLine();
         if (choice == "y"){
             answer = true;
             break;
-        } else if (choice == "n"){
+        } 
+        else if (choice == "n"){
             answer = false;
             break;
-        } else {
+        } 
+        else {
             System.Console.WriteLine("Invalid response");
         }
     }
