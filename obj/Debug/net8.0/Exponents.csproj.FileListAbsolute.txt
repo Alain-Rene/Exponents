@@ -12,3 +12,4 @@
 /Users/alainrene/Desktop/AugustWeek1/Lecture3/Exponents/obj/Debug/net8.0/Exponents.pdb
 /Users/alainrene/Desktop/AugustWeek1/Lecture3/Exponents/obj/Debug/net8.0/Exponents.genruntimeconfig.cache
 /Users/alainrene/Desktop/AugustWeek1/Lecture3/Exponents/obj/Debug/net8.0/ref/Exponents.dll
+/Users/alainrene/Desktop/AugustWeek1/Lecture3/Exponents/obj/Debug/net8.0/Exponents.sourcelink.json

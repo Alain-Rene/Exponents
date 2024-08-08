@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exponents")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53ee4e066b36fc10af7f1b4f561d9e1cfbd0657d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exponents")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exponents")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

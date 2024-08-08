@@ -11,8 +11,8 @@ do{
     //User input for variable that will be the max limit on loop
     int userInput = ValidateInteger();
 
-    System.Console.WriteLine("Number\tSquared\tCubed");
-    System.Console.WriteLine("=====\t=====\t=====");
+    System.Console.WriteLine("{0,10} {1,10} {2,10}", "Number", "Square", "Cube");
+    
     //For loop that squares and cubes all numbers up to userInput
     for(int i = 1; i <= userInput; i++){
         /* Try catch block implemented to catch if the program throws an overflow exception, 
@@ -28,13 +28,12 @@ do{
 
             cubed = i * i * i;
             }
-            System.Console.WriteLine($"{i}\t{square}\t{cubed}");
+            System.Console.WriteLine("{0,10} {1,10} {2,10}", i, square, cubed);
         } 
         catch (OverflowException){
             System.Console.WriteLine("the square/cube of one or more values exceeds the limits of an integer data type");
             break;
         }
-        
     }
 
     //Ask user to continue
@@ -65,6 +64,7 @@ static bool QuestionUser(bool answer){
 }
     
 static int ValidateInteger(){
+    //Method that validates the user's input
     int input;
     while (true){
         Console.WriteLine("Please enter a positive integer:");
